@@ -4,6 +4,7 @@
 
 - I am a highschool student (freshman)
 - I am interested in studying aerospace engineering
+- I have been coding games and participating in STEM projects since elementary school
 
 <h3>🚀 Engineering Projects:</h3>
 
