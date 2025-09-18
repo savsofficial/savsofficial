@@ -8,7 +8,7 @@
 
 <h3>🚀 Engineering Projects:</h3>
 
-- I am currently working on a bionic hand
+- I am currently working on a bionic hand 
 
 
 [<img align="left" alt="SavannahNelsen | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
