@@ -1,6 +1,6 @@
 <h1>Hi, I'm Savannah! <br/><a <a href="https://www.youtube.com/@savsofficial028">YouTuber</a></h1>
 
-<h2>🦖 About Me:</h2>
+<h2>🪐 About Me:</h2>
 
 - I am a highschool student (sophomore)
 - I am interested in studying aerospace engineering
