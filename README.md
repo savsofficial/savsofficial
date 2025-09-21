@@ -1,4 +1,4 @@
-<h1>Hi, I'm Savannah! <br/><a <a href="https://www.youtube.com/@savsofficial028">YouTuber</a></h1>
+<h1>Hi, I'm Savannah! <br/><a <a href="https://www.youtube.com/@iholdmywrench">YouTuber</a></h1>
 
 <h2>🪐 About Me:</h2>
 
@@ -13,7 +13,7 @@
 
 [<img align="left" alt="SavannahNelsen | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[youtube]: https://www.youtube.com/@savsofficial028
+[youtube]: https://www.youtube.com/@iholdmywrench
 
 
 <!--
